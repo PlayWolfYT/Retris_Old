@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Retris">
+    <output-path>$PROJECT_DIR$/../Output</output-path>
+    <root id="root">
+      <element id="archive" name="Retris.jar">
+        <element id="module-output" name="Retris" />
+      </element>
+    </root>
+  </artifact>
+</component>
